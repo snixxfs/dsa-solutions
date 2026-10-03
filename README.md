@@ -11,10 +11,4 @@ My solutions to CodeChef and LeetCode problems, one problem per commit. Each fil
 |------|---------|-------|------------|------------|----------|
 <!-- TABLE-END -->
 
-## Add a solution
 
-```bash
-./new.sh codechef START1 py
-```
-
-This creates the file from a template, opens your editor, then updates this table, commits and pushes.
